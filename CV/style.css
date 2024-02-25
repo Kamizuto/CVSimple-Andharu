@@ -1,0 +1,138 @@
+body {
+    background-color: white;
+    padding: 0;
+    margin: 0;
+}
+
+#header {   
+    background-color: rgb(0, 41, 117);
+    height: 1200px;
+    width: 30%;
+    padding: 10px;
+    float: left;
+    border-right: 40px solid rgba(226, 189, 23, 0.966); 
+    border-top-right-radius: 100px;
+    border-top: 5px solid rgba(226, 189, 23, 0.966);
+  
+}
+
+#content {
+    padding: 10px;
+    background-color: white;
+    height: 1200px;
+    width: 860px;
+    padding: 10px;
+    float: right;
+    
+}
+
+.photo {
+    height: 5cm;
+    width: 5cm;
+    margin-top: 50px;
+    border: 5px solid white;
+    background-color: white;
+    border-radius: 0px
+    
+}
+#image {
+    margin-right: 10px;
+    height: 45px;
+    border-radius: 20px;
+    width: 45px
+
+}
+
+.name {
+    color: white;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif ;
+    text-align: center ;
+    margin-top: 30px;
+    margin-bottom: 0px;
+    -webkit-text-stroke: 1px black;
+}
+
+.name2 {
+    color: white;
+    position: relative;
+    background-color: rgb(0, 41, 117) ;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 300px;
+    margin-left: 30px;
+    margin-top: 70px;
+    margin-bottom: 30px;
+    border-right: 5px;
+    border-bottom: 3px solid white;
+}
+
+.name3 {
+    color: white;
+    position: relative;
+    background-color: rgb(0, 41, 117) ;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 300px;
+    margin-left: 30px;
+    margin-top: 70px;
+    margin-bottom: 30px;
+    border-right: 5px;
+    border-bottom: 3px solid white;
+}
+
+.name4 {
+    color: white;
+    position: relative;
+    background-color: white ;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 300px;
+    color: black;
+    margin-left: 30px;
+    margin-top: 70px;
+    margin-bottom: 30px;
+    border-right: 5px;
+    border-bottom: 3px solid black;
+}
+
+
+.div {
+    background-color: blue;
+    border-right: 50px solid;
+    border-radius: 50px;
+    width: 15%;
+}
+
+#paragraf {
+    text-align: center;
+    color: white;
+    size: 5px;
+    margin-bottom: 50px;
+    margin-top: 5px;
+}
+
+#paragraf2 {
+    color: white;
+    size: 5px;
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+}
+#paragraf3 {
+    color: white;
+    size: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+}
+
+#paragraf4 {
+    color: black;
+    size: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 30px;
+}
+
+
+
+.description {
+    text-align: center;
+    margin-bottom: 100px;
+}
